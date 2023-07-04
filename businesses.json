@@ -1,0 +1,52 @@
+{
+  "industries": [{
+    "industry": "tech",
+    "business_names": [
+      "Stark Industries",
+      "Alphabeta Inc."
+    ]
+  },
+  {
+  "industry": "Food Cart",
+  "business_names": [
+    "Lemonade for lemondays",
+    "Kebabs and crabs"
+    ]
+  },
+  {
+  "industry": "Fast Food Restaurant",
+  "business_names": [
+    "Donald's Macs",
+    "Guy's Fries"
+    ]
+  },
+  {
+  "industry": "Restaurant",
+  "business_names": [
+    "Misson in stars restaurant",
+    "Rizztaurant"
+    ]
+  },
+  {
+  "industry": "Cafe",
+  "business_names": [
+    "Cafe Zero",
+    "Cat-fe"
+    ]
+  },
+  {
+  "industry": "Food Processing",
+  "business_names": [
+    "Beanz and Beanz",
+    "Hiii nz"
+    ]
+  },
+  {
+  "industry": "Brewers",
+  "business_names": [
+    "Budmiser",
+    "Carl sing"
+    ]
+  }
+  ]
+}

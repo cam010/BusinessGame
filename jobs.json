@@ -1,0 +1,32 @@
+{
+    "jobs": [{
+      "title": "Cashier",
+      "level": "entry",
+      "salary": 15000,
+      "max_salary": 30000
+    },
+      {
+      "title": "Receptionist",
+      "level": "entry",
+      "salary": 21000,
+      "max_salary": 34500
+    },
+      {
+      "title": "Street Cleaner",
+      "level": "entry",
+      "salary": 13500,
+      "max_salary": 26750
+    },
+      {
+      "title": "Librarian",
+      "level": "entry",
+      "salary": 17500,
+      "max_salary": 32250
+    },
+      {
+      "title": "Sausage Packer",
+      "level": "entry",
+      "salary": 14000,
+      "max_salary": 23000
+    }]
+  }

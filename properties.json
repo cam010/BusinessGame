@@ -1,0 +1,24 @@
+{
+    "addresses": [
+      "The Lawns, Silver Street, Mitcheldean",
+      "2 Queens Road, Wisbech",
+      "244 Banstead Road, Banstead",
+      "3 Waverland Terrace, Gillingham",
+      "15 Park Lane, Eaton Bray",
+      "3 The Crescent, Malvern",
+      "25 Rosamond Road, Bedford",
+      "23 Mill Lane, Skellow",
+      "Tilbury Treatment Works, Fort Road, West Tilbury",
+      "Flat 8, 157 Church Walk, London"
+    ],
+    "property_types": [
+      ["flat", 100000],
+      ["penthouse flat", 1000000],
+      ["terrace", 150000],
+      ["semi-detached", 200000],
+      ["detached", 300000],
+      ["mansion", 1500000],
+      ["country estate", 5000000],
+      ["palace", 75000000]
+    ]
+  }
